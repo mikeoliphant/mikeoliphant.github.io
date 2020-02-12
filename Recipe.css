@@ -1,0 +1,16 @@
+.Recipe {
+    border: 1px solid #555555;
+    background-color: #eff8f9;
+    padding: 10px;
+    font-size: 90%;
+}
+
+.RecipeTitle {
+    color: #cb8412;
+    font-size: 150%;
+}
+
+.RecipeSectionTitle {
+    font-weight: bold;
+    font-size: 110%;
+}
